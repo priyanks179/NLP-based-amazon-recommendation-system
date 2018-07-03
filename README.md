@@ -18,4 +18,4 @@
 ![p4](https://raw.githubusercontent.com/priyanks179/NLP-based-amazon-recommendation-system/master/pic/asd5.png)
 
 #### For data go to link:
-https://drive.google.com/drive/folders/1tgs7ZQQsR97D5oicP3Gph9xxrbfB8I0b
+https://drive.google.com/open?id=1tgs7ZQQsR97D5oicP3Gph9xxrbfB8I0b
